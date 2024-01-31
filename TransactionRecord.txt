@@ -1,0 +1,6 @@
+wt11   Tshirt   800   2
+we11   Chador   2000   1
+we06   Palazzo   1200   1
+kg121   top   3000   3
+we06   Palazzo   1200   3
+kg121   top   3000   2

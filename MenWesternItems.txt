@@ -1,0 +1,5 @@
+mw16   T-Shirt   46   40   41   2500
+mw20   Sweater   45   40   46   6000
+mw19   Hamalya   48   47   50   3500
+mw20   Sweater   45   40   46   6000
+mw21   Tanktop   47   36   50   3000

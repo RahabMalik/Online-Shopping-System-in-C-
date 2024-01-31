@@ -1,0 +1,6 @@
+we06   Palazzo   7   41   50   1200
+we07   Churidar   46   43   43   1500
+we08   Patyala   49   48   46   1100
+we09   Abaya   48   47   30   5000
+we10   Hijab   35   42   27   1000
+we11   Chador   44   38   50   2000

@@ -1,0 +1,5 @@
+kb101   T-shirt   48   46   41   1500
+kb102   Jackets   48   43   50   2000
+kb104   Jeans   48   47   50   1500
+kb105   Booties   45   38   46   2000
+kb106   Joogers   42   42   47   1700

@@ -1,0 +1,6 @@
+kg116   Skirt   48   46   41   1500
+kg117   Scarf   48   43   50   1000
+kg118   Pants   39   47   44   2700
+kg119   Rhomper   48   45   50   2500
+kg120   Sweater   43   40   46   3000
+kg121   top   42   38   50   3000

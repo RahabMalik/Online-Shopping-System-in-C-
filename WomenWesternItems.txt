@@ -1,0 +1,8 @@
+wt11   Tshirt   45   47   42   800
+wt21   Raglan   41   48   50   600
+wt31   PoloColr   50   50   50   700
+wt41   V-neck   50   50   43   500
+ww01   Jacket   50   48   40   1200
+ww21   Blazer   47   46   30   1000
+ww31   Sweater   44   48   50   1100
+wj11   Jeans   50   47   45   1000

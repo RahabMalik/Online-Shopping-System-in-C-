@@ -1,0 +1,7 @@
+me01   Banawat   47   46   39   2500
+me02   Zest   43   43   50   3000
+me03   Merino   39   47   44   2700
+me04   kurta   48   47   50   3500
+me05   Shrwani   44   40   46   6000
+me06   Jodpuri   45   47   47   5500
+me07   Afghani   42   35   43   7000
