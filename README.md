@@ -1,4 +1,4 @@
-# Online-Shopping-System-in-C-
+# Online-Shopping-System-in-C++
 Introduction
 This is a simple command-line-based Online Shopping System implemented in C++. It provides basic functionality for user login, registration, shopping, and transaction recording. The system differentiates between regular customers and an admin with additional privileges.
 
